@@ -1,0 +1,20 @@
+# Compiled output directories
+out/
+out_test/
+bin/
+target/
+build/
+
+# Java class and archive artifacts
+*.class
+*.log
+
+# IDE & OS metadata
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
